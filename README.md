@@ -1,2 +1,0 @@
-# Biterm
-Biterm topic model
